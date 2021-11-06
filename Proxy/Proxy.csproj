@@ -39,9 +39,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Properties" />
+    <Compile Include="Properties\ITeacher.cs" />
+    <Compile Include="Properties\MonitorProxy.cs" />
+    <Compile Include="Properties\RealTeacher.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

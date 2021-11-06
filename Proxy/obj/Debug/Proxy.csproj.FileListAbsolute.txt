@@ -1,0 +1,5 @@
+C:\Users\111\RiderProjects\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\111\RiderProjects\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\111\RiderProjects\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\111\RiderProjects\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\111\RiderProjects\Proxy\Proxy\obj\Debug\Proxy.pdb

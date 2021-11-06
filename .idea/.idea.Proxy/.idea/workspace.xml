@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b33106bb-df12-44d2-a3a8-5e978fd6e844" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/Proxy/Properties/ITeacher.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/Properties/MonitorProxy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Proxy/Properties/RealTeacher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Proxy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proxy/Proxy.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Proxy/Proxy.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Proxy/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proxy/Properties/RealTeacher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proxy/Properties/MonitorProxy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Proxy/Properties/ITeacher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Proxy/Properties/Teacher.cs" />
+        <option value="$PROJECT_DIR$/Proxy/Properties/ITeacher.cs" />
+        <option value="$PROJECT_DIR$/Proxy/Properties/RealTeacher.cs" />
+        <option value="$PROJECT_DIR$/Proxy/Properties/MonitorProxy.cs" />
+        <option value="$PROJECT_DIR$/Proxy/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20XZdyK6foZjjFO53hshHzv45iM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Lua" />
   </component>
   <component name="RunManager">
@@ -22,5 +68,47 @@
         <option name="Build" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b33106bb-df12-44d2-a3a8-5e978fd6e844" name="默认更改列表" comment="" />
+      <created>1636192984770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636192984770</updated>
+      <workItem from="1636192990360" duration="879000" />
+    </task>
+    <task id="LOCAL-00001" summary="代理模式的初始项目">
+      <created>1636193134069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636193134069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="代理模式的初始项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式的初始项目" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="313" key="Vcs.Push.Dialog.v2" timestamp="1636193141665">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2472" y="313" key="Vcs.Push.Dialog.v2/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1636193141665" />
+    <state x="2681" y="486" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1636193109063">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2681" y="486" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1920.1160/0.0.1920.1160@1920.0.1920.1160" timestamp="1636193109063" />
   </component>
 </project>
